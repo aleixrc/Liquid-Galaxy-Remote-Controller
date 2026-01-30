@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Floating Pyramid Xativa</name>
+  <Placemark>
+    <name>Pyramid Face 1</name>
+    <Style><PolyStyle><color>ff0000ff</color><fill>1</fill></PolyStyle></Style>
+    <Polygon><altitudeMode>relativeToGround</altitudeMode>
+    <outerBoundaryIs><LinearRing><coordinates>
+      -0.5221,38.9882,20 -0.5211,38.9882,20 -0.5216,38.9887,150 -0.5221,38.9882,20
+    </coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Pyramid Face 2</name>
+    <Style><PolyStyle><color>ff00ff00</color><fill>1</fill></PolyStyle></Style>
+    <Polygon><altitudeMode>relativeToGround</altitudeMode>
+    <outerBoundaryIs><LinearRing><coordinates>
+      -0.5211,38.9882,20 -0.5211,38.9892,20 -0.5216,38.9887,150 -0.5211,38.9882,20
+    </coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Pyramid Face 3</name>
+    <Style><PolyStyle><color>ffff0000</color><fill>1</fill></PolyStyle></Style>
+    <Polygon><altitudeMode>relativeToGround</altitudeMode>
+    <outerBoundaryIs><LinearRing><coordinates>
+      -0.5211,38.9892,20 -0.5221,38.9892,20 -0.5216,38.9887,150 -0.5211,38.9892,20
+    </coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Pyramid Face 4</name>
+    <Style><PolyStyle><color>ff00ffff</color><fill>1</fill></PolyStyle></Style>
+    <Polygon><altitudeMode>relativeToGround</altitudeMode>
+    <outerBoundaryIs><LinearRing><coordinates>
+      -0.5221,38.9892,20 -0.5221,38.9882,20 -0.5216,38.9887,150 -0.5221,38.9892,20
+    </coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Document>
+</kml>
