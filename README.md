@@ -1,4 +1,4 @@
-# LG Flutter Controller - GSoC 2026
+# Liquid Galaxy Flutter Controller - GSoC 2026
 
 This repository contains the source code for Task 2 of the Liquid Galaxy GSoC 2026 selection process. The project is a Flutter-based mobile application designed to interface with a Liquid Galaxy system.
 
