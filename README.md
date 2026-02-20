@@ -30,7 +30,7 @@ The application acts as a central control hub that communicates with a multi-scr
    `flutter build apk --release`
 
 ## Author
-**Aleix R. Climent**
+**Aleix Climent**
 * **GitHub**: [@aleixrc](https://github.com/aleixrc)
 * **LinkedIn**: [Aleix Climent](https://www.linkedin.com/in/aleixcliment/)
 * **Email**: aleix.r.climent@gmail.com
